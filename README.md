@@ -1,3 +1,3 @@
 # PraticeRepositoryGit
 This is my Github Pratice Repo
-Adding new Chnages to check the commits.
+Adding new Changes to check the commits.
